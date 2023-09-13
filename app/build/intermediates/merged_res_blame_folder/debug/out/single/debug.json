@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "arush.assignment3.app-merged_res-44:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "arush.assignment3.app-main-46:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "arush.assignment3.app-merged_res-44:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "arush.assignment3.app-main-46:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "arush.assignment3.app-merged_res-44:/drawable_myntralogo.png.flat",
+        "source": "arush.assignment3.app-main-46:/drawable/myntralogo.png"
+    },
+    {
+        "merged": "arush.assignment3.app-merged_res-44:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "arush.assignment3.app-main-46:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "arush.assignment3.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "arush.assignment3.app-main-46:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "arush.assignment3.app-merged_res-44:/drawable_flipkartlogo.png.flat",
+        "source": "arush.assignment3.app-main-46:/drawable/flipkartlogo.png"
+    },
+    {
+        "merged": "arush.assignment3.app-merged_res-44:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "arush.assignment3.app-main-46:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "arush.assignment3.app-merged_res-44:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "arush.assignment3.app-main-46:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "arush.assignment3.app-merged_res-44:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "arush.assignment3.app-main-46:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "arush.assignment3.app-merged_res-44:/drawable_ic_launcher_background.xml.flat",
+        "source": "arush.assignment3.app-main-46:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "arush.assignment3.app-merged_res-44:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "arush.assignment3.app-main-46:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "arush.assignment3.app-merged_res-44:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "arush.assignment3.app-main-46:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "arush.assignment3.app-merged_res-44:/xml_backup_rules.xml.flat",
+        "source": "arush.assignment3.app-main-46:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "arush.assignment3.app-merged_res-44:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "arush.assignment3.app-main-46:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "arush.assignment3.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "arush.assignment3.app-main-46:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "arush.assignment3.app-merged_res-44:/xml_data_extraction_rules.xml.flat",
+        "source": "arush.assignment3.app-main-46:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "arush.assignment3.app-merged_res-44:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "arush.assignment3.app-main-46:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "arush.assignment3.app-merged_res-44:/drawable_loginpic.png.flat",
+        "source": "arush.assignment3.app-main-46:/drawable/loginpic.png"
+    },
+    {
+        "merged": "arush.assignment3.app-merged_res-44:/drawable_amazonlogo.jpg.flat",
+        "source": "arush.assignment3.app-main-46:/drawable/amazonlogo.jpg"
+    },
+    {
+        "merged": "arush.assignment3.app-merged_res-44:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "arush.assignment3.app-main-46:/mipmap-hdpi/ic_launcher_round.webp"
+    }
+]
